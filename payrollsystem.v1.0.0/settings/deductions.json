@@ -1,0 +1,52 @@
+{
+	{
+		"name": "sss",
+		"sets"
+		[
+			{
+				"name": "Standard",
+				"min": "",
+				"max": "",
+				"er": 7.37,
+				"ee": 3.63,
+				"total": 11
+			}
+		]
+	},
+	{
+		"name": "pagibig",
+		"sets":
+		[
+			{
+				"name": "P1,500 and below"
+				"min": 0,
+				"max": 1500
+				"er": 1,
+				"ee": 2,
+				"total": 3
+			},
+			{
+				"name": "Over P1,500",
+				"min": 1500,
+				"max": 0,
+				"er": 2,
+				"ee": 2,
+				"total": 4
+			}
+		]
+	},
+	{
+		"name": "philhealth",
+		"sets":
+		[
+			{
+				"name": "Standard",
+				"min": 0,
+				"max": 0,
+				"er": 1.375,
+				"ee": 1.375,
+				"total": 2.75
+			}
+		]
+	}
+}
